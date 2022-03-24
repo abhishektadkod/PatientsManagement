@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.patient{
+    background-color: #e3aa84;
+    margin:0;
+    padding:0;
+}
+
+.patientInfo {
+}
+
+.patientList {
+    height: 100vh;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    overflow-y: scroll;
+}
+
+.patientList::-webkit-scrollbar{
+    display: none;
+}
+
+.btn{
+    font-size: 25px;
+}
+
+#helpId{
+    right:0;
+    position: absolute;
+}

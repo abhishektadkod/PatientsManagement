@@ -1,0 +1,26 @@
+.haha{
+    transition: all 1s;
+    border-radius: 50px 0 0 50px;
+}
+
+.haha:hover{
+    background-color: #104c85;
+    color:white
+    
+}
+
+.aside{
+    position: relative;
+}
+
+.search{
+    display: flex;
+    position: relative;
+}
+
+#here{
+    background: #e6baad;
+    border: 0;
+    width:100%;
+    margin-left: 30px;
+}
