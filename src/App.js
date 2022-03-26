@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-         <span style={{color:"white"}}>Abhishek Tadkod</span>
+         <span style={{color:"white"}}>Abhishek Tadkod's First Fullstack Application</span>
         <Dashboard/>
     </div>
   );
