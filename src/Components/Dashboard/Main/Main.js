@@ -1,7 +1,7 @@
 import React from 'react';
 import './Main.css';
-import PatientInfo from './PatientInfo' 
-import Visits from './Visits';
+import PatientInfo from '../PatientInfo' 
+import Visits from '../Visits';
 
 function Main(props) {
     return (

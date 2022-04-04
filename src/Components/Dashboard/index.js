@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Aside from './Aside';
-import './Dashboard.css';
-import Main from './Main';
+import Aside from '../Aside/Aside';
+import './index.css';
+import Main from './Main/Main';
 
 function Dashboard(props) {
     return (
